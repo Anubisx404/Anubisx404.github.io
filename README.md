@@ -1,4 +1,4 @@
-## Hi there 👋
+## χαιρετισμός!
 
 <!--
 **Anubisx404/Anubisx404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

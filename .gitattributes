@@ -1,0 +1,11 @@
+# The Dijkstra preview is a real GIF; never let git treat it as text or rewrite
+# its line endings, which corrupts the binary.
+*.gif binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.mp4 binary
+
+# Hashed bundles are generated; keep diffs out of them.
+assets/*.js -diff
+assets/*.css -diff
